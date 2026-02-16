@@ -1,0 +1,6 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+ayushmanbharat.mp.gov.in	TRUE	/	FALSE	1999999999	csrf_cookie_name	69e04e95d2c6b49ef4f7f37a9758a37a
+ayushmanbharat.mp.gov.in	TRUE	/	FALSE	1999999999	ci_session	2f6h1piufvn9m6l4krus7kphivn7ptlh
+ayushmanbharat.mp.gov.in	TRUE	/	FALSE	1999999999	SameSite	None
+
